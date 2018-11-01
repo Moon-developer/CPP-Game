@@ -20,6 +20,8 @@ To execute Bomberman run the following command.
 ./run.sh
 ```
 
+****
+
 ### Menu
 
 When Bomberman runs you will be greated by a main menu. From here you will be able to change your settings in Options and start the game.  
