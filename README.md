@@ -20,8 +20,6 @@ To execute Bomberman run the following command.
 ./run.sh
 ```
 
-****
-
 ### Menu
 
 When Bomberman runs you will be greated by a main menu. From here you will be able to change your settings in Options and start the game.  
@@ -48,11 +46,10 @@ When starting a game you can choose from levels 1-3 or pick a randomly generated
 -	ESC = Back  
 -	Enter = select  
   
-****
 
 ### Team
 
-- <a href="https://github.com/ZimboPro">Leslie</a>![Marks](https://img.shields.io/badge/role-graphics-orange.svg)  
+- <a href="https://github.com/ZimboPro">Leslie</a>  
 - <a href="https://github.com/P-Russell">Patrick</a>  
 - <a href="https://github.com/cdpauwels">Charl</a>  
 - <a href="https://github.com/ChazniK">Chazni</a>  
@@ -60,3 +57,4 @@ When starting a game you can choose from levels 1-3 or pick a randomly generated
 
 ### Extras
 
+![Marks](https://img.shields.io/badge/Language-c%2B%2B-red.svg)
