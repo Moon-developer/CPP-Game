@@ -48,7 +48,7 @@ When starting a game you can choose from levels 1-3 or pick a randomly generated
 -	ESC = Back  
 -	Enter = select  
   
-\*\*\*\*
+\*\***
 
 ### Team
 
