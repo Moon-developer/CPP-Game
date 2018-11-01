@@ -58,9 +58,11 @@ When starting a game you can choose from levels 1-3 or pick a randomly generated
 ### Extras
 
 ![Marks](https://img.shields.io/badge/Language-c%2B%2B-red.svg)
+![Marks](https://img.shields.io/badge/OS-Mac-red.svg)
 ![Marks](https://img.shields.io/badge/Leslie-Engine-blue.svg)
 ![Marks](https://img.shields.io/badge/Marco-Graphics-blue.svg)
 ![Marks](https://img.shields.io/badge/Patrick-AI-blue.svg)
 ![Marks](https://img.shields.io/badge/Chazne-Map-blue.svg)
 ![Marks](https://img.shields.io/badge/Charl-Menu-blue.svg)
+![Marks](https://img.shields.io/badge/State-Linker%Error-red.svg)
 
