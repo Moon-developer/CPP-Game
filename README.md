@@ -52,8 +52,11 @@ When starting a game you can choose from levels 1-3 or pick a randomly generated
 
 ### Team
 
-- <a href="https://github.com/ZimboPro">Leslie</a>  
+- <a href="https://github.com/ZimboPro">Leslie</a>![Marks](https://img.shields.io/badge/role-graphics-orange.svg)  
 - <a href="https://github.com/P-Russell">Patrick</a>  
 - <a href="https://github.com/cdpauwels">Charl</a>  
 - <a href="https://github.com/ChazniK">Chazni</a>  
 - <a href="https://github.com/Moondog360">Marco</a>
+
+### Extras
+
