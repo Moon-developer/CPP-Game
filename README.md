@@ -65,4 +65,5 @@ When starting a game you can choose from levels 1-3 or pick a randomly generated
 ![Marks](https://img.shields.io/badge/Chazne-Map-blue.svg)
 ![Marks](https://img.shields.io/badge/Charl-Menu-blue.svg)
 ![Marks](https://img.shields.io/badge/State-Linker%20Error-red.svg)
+![Marks](https://img.shields.io/badge/score-112%25-brightgreen.svg)
 
